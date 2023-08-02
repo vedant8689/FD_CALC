@@ -1,7 +1,7 @@
 import numpy as np
 import tkinter as tk
 import itertools
-
+import pandas as pd
 
 win = tk.Tk()
 win.geometry("700x500")
